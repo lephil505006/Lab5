@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Space Facts with Style</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css"/>
   </head>
   <body>  
     <h1>THIS IS SPACE</h1>
