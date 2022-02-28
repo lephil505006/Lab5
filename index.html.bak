@@ -4,8 +4,26 @@
     <title>Space Facts with Style</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css"/>
   </head>
-  <body>  
-    <h1>THIS IS SPACE</h1>
-	<p>CSS Testing</p>
+  <body> 
+  <main>
+	<div class="title">
+      <h1>THIS IS SPACE</h1>
+	</div>
+	<div class ="sub">
+	  <p>CSS Testing</p>
+	</div>
+  </main>
+  
+  <div class="tbl">
+	<table>
+	  <tr>
+		<th>Planets<th>
+		<th>Mass (kg)</th>
+		<th>Diameter (km)</th>
+		<th>Mean Density (kg/m<sup>3</sup>)</th>
+		<th>Escape Velocity (m/s></th>
+		<th>Distance to Sun (avg)</th>
+		<th>Rotation Perioid (Days)</th>
+		<th>Revolution Period (Years)</th>
   </body>
 </html>  
