@@ -1,3 +1,22 @@
+header{
+	color: white;
+	background-color: #9e1950;
+	font-family: 'Comfortaa', cursive, sans-serif;
+	font-size: 1.3em;
+	padding: 5px;
+	border-radius: 10px;
+
+}
+
 .title {
 		color: red;
+		text-align: center;
+}
+
+.sub   {
+		text-align: center;
+}
+
+.title,.sub	{
+		color: purple;
 }
