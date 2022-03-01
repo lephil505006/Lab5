@@ -7,7 +7,7 @@
   <body> 
   <main>
 	<div class="title">
-      <h1>THIS IS SPACE</h1>
+      <h1>The Statistics of Space</h1>
 	</div>
 	<div class ="sub">
 	  <p>CSS Testing</p>
@@ -27,7 +27,7 @@
          <th>Revolution Period (Years)</th>
        </tr>
        <tr>
-         <td>Mercury</td>
+         <td class="planets">Mercury</td>
          <td>3.3x10<sup>23<sup></td>
          <td>4879.4</td>
          <td>5420</td>
@@ -36,7 +36,54 @@
          <td>58.65</td>
          <td>87.97</td>
        </tr>
+	   <tr>
+         <td class="planets">Venus</td>
+         <td>4.87x10<sup>24<sup></td>
+         <td>12,104</td>
+         <td>5250</td>
+         <td>10400</td>
+         <td>108,208,930</td>
+         <td>243.02</td>
+         <td>224.7</td>
+       </tr>
+	   <tr>
+         <td class="planets">Jupiter</td>
+         <td>1.90x10<sup>27<sup></td>
+         <td>778,412,020</td>
+         <td>1314</td>
+         <td>59,500</td>
+         <td>778,412,020</td>
+         <td>9.8 Earth hours</td>
+         <td>11.86</td>
+       </tr>
+	   <tr>
+         <td class="planets">Saturn</td>
+         <td>5.96x10<sup>26<sup></td>
+         <td>120,660</td>
+         <td>690</td>
+         <td>35,600</td>
+         <td>1,426,725,400</td>
+         <td>10.2 Earth hours</td>
+         <td>29.46</td>
+       </tr>
      </table>
   </div>
+  <div class="imgs">
+    <div class="img1">
+     <img src="images/mercury.png" title="Mercury">
+    </div>
+    <div class="img2">
+      <img src="images/venus.png" title="Venus">
+    </div>
+    <div class="img3">
+      <img src="images/jupiter.png" title="Jupiter">
+    </div>
+    <div class="img4">
+      <img src="images/saturn.png" title="Saturn">
+    </div>
+  </div>
+  <div class="space">
+	  <img id="man" src="images/spaceman.gif"></img>
+	</div>
   </body>
 </html>  
