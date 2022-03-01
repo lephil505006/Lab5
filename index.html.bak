@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Space Facts with Style</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css"/>
@@ -25,7 +25,7 @@
        </tr>
        <tr>
          <td class="merc">Mercury</td>
-         <td>3.3x10<sup>23<sup></td>
+         <td>3.3x10<sup>23</sup></td>
          <td>4879.4</td>
          <td>5420</td>
          <td>4300</td>
@@ -35,7 +35,7 @@
        </tr>
 	   <tr>
          <td class="venus">Venus</td>
-         <td>4.87x10<sup>24<sup></td>
+         <td>4.87x10<sup>24</sup></td>
          <td>12,104</td>
          <td>5250</td>
          <td>10400</td>
@@ -45,7 +45,7 @@
        </tr>
 	   <tr>
          <td class="jup">Jupiter</td>
-         <td>1.90x10<sup>27<sup></td>
+         <td>1.90x10<sup>27</sup></td>
          <td>778,412,020</td>
          <td>1314</td>
          <td>59,500</td>
@@ -55,7 +55,7 @@
        </tr>
 	   <tr>
          <td class="sat">Saturn</td>
-         <td>5.96x10<sup>26<sup></td>
+         <td>5.96x10<sup>26</sup></td>
          <td>120,660</td>
          <td>690</td>
          <td>35,600</td>
@@ -85,7 +85,7 @@
   </div>
   <div class="space">
     <img id="man" src="images/spaceman.gif"></img>
-	<p id="sub">Ride On</p>
+	<p id="bot">Ride On</p>
   </div>
-  </body>
+</body>
 </html>  
