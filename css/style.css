@@ -61,6 +61,11 @@ td{
 	color: #EDE5E5;
 	font-family: Impact, monospace;
 	font-size: 25px;
+	border-color = orange;
+}
+
+#merc{
+	background-color = orange;
 }
 
 .img1{

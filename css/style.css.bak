@@ -58,9 +58,14 @@ td{
 
 
 .planets{
-	color: blue;
+	color: #EDE5E5;
 	font-family: Impact, monospace;
 	font-size: 25px;
+	background-color = orange;
+}
+
+#merc{
+	background-color = orange;
 }
 
 .img1{
