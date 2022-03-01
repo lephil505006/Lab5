@@ -14,18 +14,29 @@
 	</div>
   </main>
   
-  <div class="tbl">
-	<table>
-	  <tr>
-		<th>Planets<th>
-		<th>Mass (kg)</th>
-		<th>Diameter (km)</th>
-		<th>Mean Density (kg/m<sup>3</sup>)</th>
-		<th>Escape Velocity (m/s)</th>
-		<th>Distance to Sun (avg)</th>
-		<th>Rotation Perioid (Days)</th>
-		<th>Revolution Period (Years)</th>
-	  </tr>
-	<table>
+  <div class="tbl">  
+    <table>
+       <tr>
+         <th>Planets</th>
+         <th>Mass(kg)</th>
+         <th>Diameter (km)</th>
+         <th>Mean density (kg/m<sup>3</sup>)</th>
+         <th>Escape velocity (m/s)</th>
+         <th>Distance to Sun (avg km)</th>
+         <th>Rotation Period (Days)</th>
+         <th>Revolution Period (Years)</th>
+       </tr>
+       <tr>
+         <td>Mercury</td>
+         <td>3.3x10<sup>23<sup></td>
+         <td>4879.4</td>
+         <td>5420</td>
+         <td>4300</td>
+         <td>57,909,175</td>
+         <td>58.65</td>
+         <td>87.97</td>
+       </tr>
+     </table>
+  </div>
   </body>
 </html>  

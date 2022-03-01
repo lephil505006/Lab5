@@ -1,22 +1,16 @@
-header{
-	color: white;
-	background-color: #9e1950;
-	font-family: 'Comfortaa', cursive, sans-serif;
-	font-size: 1.3em;
-	padding: 5px;
-	border-radius: 10px;
-
-}
-
-.title {
+.title{
 		color: red;
 		text-align: center;
 }
 
-.sub   {
+.sub{
 		text-align: center;
 }
 
-.title,.sub	{
+.title,.sub{
 		color: purple;
+}
+
+table, th, td{
+		border: 1px solid;
 }
