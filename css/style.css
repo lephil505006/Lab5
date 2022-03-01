@@ -34,6 +34,11 @@ body{
 		margin-top: 200px;
 }
 
+table{
+		border-color: #EDE5E5;
+		color: #EDE5E5;
+}
+
 table, th, td{
 	
 		width: 1500px;
@@ -42,16 +47,18 @@ table, th, td{
 		text-align: center;
 		margin: auto;
 		border-collapse:separate;
-        border:solid black 1px;
         border-radius:6px;
+		font-family: DejaVu Sans Mono, monospace;
 }
 
 td{
+	
 	height: 50px;
 }
 
+
 .planets{
-	color: blue;
+	color: #EDE5E5;
 	font-family: Impact, monospace;
 	font-size: 25px;
 }
@@ -105,4 +112,3 @@ td{
 .imgs img{
 	margin-top: 40px;
 }
-

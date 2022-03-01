@@ -9,9 +9,6 @@
 	<div class="title">
       <h1>The Statistics of Space</h1>
 	</div>
-	<div class ="sub">
-	  <p>CSS Testing</p>
-	</div>
   </main>
   
   <div class="tbl">  
@@ -68,6 +65,9 @@
        </tr>
      </table>
   </div>
+  <div class ="sub">
+	  <p>Our Cool Planets</p>
+	</div>
   <div class="imgs">
     <div class="img1">
      <img src="images/mercury.png" title="Mercury">
