@@ -84,7 +84,7 @@
     </div>
   </div>
   <div class="space">
-    <img id="man" src="images/spaceman.gif"></img>
+    <img id="man" src="images/spaceman.gif" alt="spaceman"></img>
 	<p id="bot">Ride On</p>
   </div>
 </body>
